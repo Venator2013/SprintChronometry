@@ -1,0 +1,6 @@
+[submodule "NetMF"]
+	path = NetMF
+	url = https://github.com/Venator2013/nrf8001-netmf
+[submodule "NetMF/NRF8001"]
+	path = NetMF/NRF8001
+	url = https://github.com/Venator2013/nrf8001-netmf
